@@ -13,11 +13,12 @@ Telegram speech to text bot using python.
 2) Install the requirements 
 3) Download ffmpeg software from https://ffmpeg.org/download.html
 4) You need to download the ffmpeg.exe file and place it in the working directory.
-5) Configure the ffmpeg file in python code 
-6) Open telegram and create a new bot using  http://t.me/BotFather BotFather
-7) Save the Bot token and add it in the python code 
-8) Run the code.
-9) send the voice message to the bot and it will give you the text output! 
+5) Make sure you also place ffplay.exe, ffprobe.exe in the same directory. All these files will be together when you download.  
+6) Configure the ffmpeg file in python code 
+7) Open telegram and create a new bot using  http://t.me/BotFather BotFather
+8) Save the Bot token and add it in the python code 
+9) Run the code.
+10) send the voice message to the bot and it will give you the text output! 
 
 
 # Output 
